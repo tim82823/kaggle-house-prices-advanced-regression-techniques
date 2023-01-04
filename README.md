@@ -1,4 +1,4 @@
-# KaggleHousePrices
+# kaggle-house-prices-advanced-regression-techniques
 
 ## Intro
 
