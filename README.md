@@ -10,6 +10,7 @@
 ## Running Instructions
 
   1. Click `Link to GitHub` under `File` on a Kaggle notebook.
-  2. Click on `Import` under `File`. Under GitHub tab, search `<Your GitHub URL>/kaggle-house-prices-advanced-regression-techniques`.
-  3. Choose the CORRECT branch.
-  4. Choose the `.ipynb` file then click on `Import`.
+  2. Click `Save Version` on the top right.
+  3. Choose the CORRECT REPOSITARY BRANCH.
+  4. (Optional) Add the commit message.
+  5. Click on `Save`.
