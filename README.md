@@ -26,25 +26,29 @@
 ***
 
 - 1.ETL Pipeline
-	Extract
-	casting
-	loading
+	- [ ] Extract
+	- [ ] casting
+	- [ ] loading
 ***
 
 - 2.Exploratory Data Analysis
-	Feature Selection(Business/Data Unstarding)
-	Data Cleaning
-	Standarization/Normalization
-	Data Visualizations
+	- [ ] Feature Selection(Business/Data Unstarding)
+	- [ ] Data Cleaning
+	- [ ] Standarization/Normalization
+	- [ ] Data Visualizations
+***
+
 - 3.Feature Engineering
-	Feature Selection(Business/Data Unstarding)
-	ML Algorithms selection
-	ML Pipeline(Imputation,Encoding)
+	- [ ] Feature Selection(Business/Data Unstarding)
+	- [ ] ML Algorithms selection
+	- [ ]ML Pipeline(Imputation,Encoding)
+
+***
 - 4.Machine Learning
-	Baseline/Benchmark
-	Tuning
-	Training
-	Evaluation
+	- [ ]Baseline/Benchmark
+	- [ ]Tuning
+	- [ ]Training
+	- [ ]Evaluation
 
 	
 
