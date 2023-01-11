@@ -19,10 +19,10 @@
 
 #Progress
 - 0. initial Analysis
-	Metadata
-	Variable Type Analysis(see metadata)
-	Casting solution:Distribution of ordinal variable:Encoding Selection
-	Data Summary
+	- [ ] Metadata
+	- [ ] Variable Type Analysis(see metadata)
+	- [ ] Casting solution:Distribution of ordinal variable:Encoding Selection
+	- [ ] Data Summary
 ***
 
 - 1.ETL Pipeline
