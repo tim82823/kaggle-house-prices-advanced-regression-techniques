@@ -41,14 +41,14 @@
 - 3.Feature Engineering
 	- [ ] Feature Selection(Business/Data Unstarding)
 	- [ ] ML Algorithms selection
-	- [ ]ML Pipeline(Imputation,Encoding)
+	- [ ] ML Pipeline(Imputation,Encoding)
 
 ***
 - 4.Machine Learning
-	- [ ]Baseline/Benchmark
-	- [ ]Tuning
-	- [ ]Training
-	- [ ]Evaluation
+	- [ ] Baseline/Benchmark
+	- [ ] Tuning
+	- [ ] Training
+	- [ ] Evaluation
 
 	
 
